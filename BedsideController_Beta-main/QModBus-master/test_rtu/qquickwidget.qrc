@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>quickwidget.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>LightSwitch.qml</file>
+        <file>bedroom-g88700128f_1920.jpg</file>
+        <file>Time.qml</file>
+        <file>TumblerDelegate.qml</file>
+        <file>AlarmClock.qml</file>
+        <file>AlarmModel.qml</file>
+        <file>AlarmDelegate.qml</file>
+        <file>AlarmNotification.qml</file>
+    </qresource>
+</RCC>
